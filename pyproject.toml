@@ -1,6 +1,6 @@
 [project]
 name = "weather_sj3553"
-version = "0.1.0"
+version = "0.1.1"
 description = "Utilities for cleaning and summarizing weather data."
 readme = "README.md"
 authors = [{ name = "Siduo Jiang", email = "jiangsiduo0801@gmail.com" }]
