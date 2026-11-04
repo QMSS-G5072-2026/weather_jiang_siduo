@@ -21,6 +21,9 @@ extensions = [
     "sphinx.ext.napoleon",
     "sphinx.ext.viewcode",
 ]
+
+nb_execution_mode = "off"
+
 autoapi_dirs = ["../src"]
 
 # List of patterns, relative to source directory, that match files and
