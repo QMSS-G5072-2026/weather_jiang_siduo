@@ -1,5 +1,5 @@
 # weather_sj3553
-
+[![CI](https://github.com/QMSS-G5072-2026/weather_jiang_siduo/actions/workflows/ci.yml/badge.svg)](https://github.com/QMSS-G5072-2026/weather_jiang_siduo/actions/workflows/ci.yml)
 Utilities for cleaning and summarizing weather data.
 
 ## Installation
